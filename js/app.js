@@ -1,5 +1,4 @@
 /* eslint-disable no-var */
-
 /* eslint-disable no-constant-condition */
 /* eslint-disable no-cond-assign */
 /* eslint-disable no-unused-vars */
