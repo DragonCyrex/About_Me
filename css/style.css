@@ -29,3 +29,13 @@ main p{
     text-align: justify;
     text-justify: inter-word;
 }
+main section:nth-child(2){
+    font-size: 20px;
+    letter-spacing: 1.5px;
+    line-height: 1.5;
+}
+
+main section:nth-child(2) ul{
+    list-style-type: circle;
+    padding-left: 25px;
+}
